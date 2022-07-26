@@ -1,0 +1,1 @@
+This is the Foundations Course folder to keep track of all projects.
